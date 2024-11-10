@@ -1,5 +1,5 @@
 # 💫 About Me:
-About me:<br>I'm a second-year Software Engineering student @ FINKI - UKIM in Skopje,<br>passionate about exploring the universe of code and adding to it.<br><br>Interested in Game Dev.
+About me:<br>I'm a third-year Software Engineering student @ FINKI - UKIM in Skopje,<br>passionate about exploring the universe of code and adding to it.<br><br>Interested in Game Dev.
 
 
 # 💻 Tech Stack:
